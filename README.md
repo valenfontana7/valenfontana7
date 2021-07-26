@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @valenfontana7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently working as a Software Engineer
+- 📫 How to reach me: 
+- Linkedin: https://www.linkedin.com/in/valenfontana7/
+- Email: valenfontana7@gmail.com
 
 <!---
 valenfontana7/valenfontana7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
