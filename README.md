@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @valenfontana7
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Front End Development
 - 🌱 I’m currently working as a Software Engineer
 - 📫 How to reach me: 
 - Linkedin: https://www.linkedin.com/in/valenfontana7/
